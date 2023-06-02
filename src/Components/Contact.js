@@ -17,8 +17,7 @@ class Contact extends Component {
       <section id="contact">
        <div>
         <h2>About us</h2>
-        <p>We are bunch of hungry and a bit crazy Finnish group based in Helsinki. 
-          Us combined we have over 30 years of experiense in the SAAS and sales market with an extra tint in conversational solutions</p>
+        <p></p>
        </div>
       </section>
     );

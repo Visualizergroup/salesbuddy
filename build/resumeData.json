@@ -4,7 +4,7 @@
     "description":"Our AI solution is a game-changer for professionals in the sales industry. With its comprehensive range of features, including seamless CRM integration, intelligent material sourcing, social media influencing, and personalized sales materials, our platform empowers salespersons to excel in their roles, surpassing expectations and achieving remarkable results.",
     "image":"robohand.jpg",
     "bio":"One of the key features of our AI solution is its ability to empower salespersons in finding relevant materials and utilize these in your presentations.\nGone are the days of tedious searching and sifting through vast amounts of information.\nOur AI system efficiently locates and presents the most pertinent materials, saving valuable time and effort.\nFurthermore, our AI technology extends its reach to social media influencing.\nLeveraging customer profiles and stakeholder analysis, our platform assists salespersons in developing compelling social media campaigns that engage and captivate the target audience.\nBy analyzing data and consumer preferences, our AI system helps generate impactful content, maximizing the potential for successful sales conversions.In addition to its resourceful capabilities, our AI solution excels at creating customized sales materials. By understanding the unique characteristics and preferences of individual customers and stakeholders, our platform generates tailor-made materials that resonate with the intended recipients. This personalized approach enhances the effectiveness of sales strategies, leading to increased customer satisfaction and improved sales outcomes.",
-    "contactmessage":"Sales",
+    "contactmessage":"Saless",
     "email": "teemu.hirvonen@visualizergroup.com",
     "phone": "",
     "github":"",
@@ -25,17 +25,17 @@
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"",
         "className":"fa fa-twitter"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"",
         "className":"fa fa-instagram"
       },
       {
