@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.b163286b.chunk.css",
-    "main.js": "./static/js/main.3b83e183.chunk.js",
-    "main.js.map": "./static/js/main.3b83e183.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.bb642221.js",
-    "runtime-main.js.map": "./static/js/runtime-main.bb642221.js.map",
-    "static/js/2.4497e82b.chunk.js": "./static/js/2.4497e82b.chunk.js",
-    "static/js/2.4497e82b.chunk.js.map": "./static/js/2.4497e82b.chunk.js.map",
-    "static/js/3.b6cf0807.chunk.js": "./static/js/3.b6cf0807.chunk.js",
-    "static/js/3.b6cf0807.chunk.js.map": "./static/js/3.b6cf0807.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/main.b163286b.chunk.css.map": "./static/css/main.b163286b.chunk.css.map",
-    "static/js/2.4497e82b.chunk.js.LICENSE.txt": "./static/js/2.4497e82b.chunk.js.LICENSE.txt"
+    "main.css": "/salesbuddy/static/css/main.b163286b.chunk.css",
+    "main.js": "/salesbuddy/static/js/main.3b83e183.chunk.js",
+    "main.js.map": "/salesbuddy/static/js/main.3b83e183.chunk.js.map",
+    "runtime-main.js": "/salesbuddy/static/js/runtime-main.575c42d8.js",
+    "runtime-main.js.map": "/salesbuddy/static/js/runtime-main.575c42d8.js.map",
+    "static/js/2.4497e82b.chunk.js": "/salesbuddy/static/js/2.4497e82b.chunk.js",
+    "static/js/2.4497e82b.chunk.js.map": "/salesbuddy/static/js/2.4497e82b.chunk.js.map",
+    "static/js/3.b6cf0807.chunk.js": "/salesbuddy/static/js/3.b6cf0807.chunk.js",
+    "static/js/3.b6cf0807.chunk.js.map": "/salesbuddy/static/js/3.b6cf0807.chunk.js.map",
+    "index.html": "/salesbuddy/index.html",
+    "static/css/main.b163286b.chunk.css.map": "/salesbuddy/static/css/main.b163286b.chunk.css.map",
+    "static/js/2.4497e82b.chunk.js.LICENSE.txt": "/salesbuddy/static/js/2.4497e82b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bb642221.js",
+    "static/js/runtime-main.575c42d8.js",
     "static/js/2.4497e82b.chunk.js",
     "static/css/main.b163286b.chunk.css",
     "static/js/main.3b83e183.chunk.js"
