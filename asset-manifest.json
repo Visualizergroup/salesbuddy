@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/salesbuddy/static/css/main.b163286b.chunk.css",
-    "main.js": "/salesbuddy/static/js/main.27df9abe.chunk.js",
-    "main.js.map": "/salesbuddy/static/js/main.27df9abe.chunk.js.map",
+    "main.js": "/salesbuddy/static/js/main.74cc1a6a.chunk.js",
+    "main.js.map": "/salesbuddy/static/js/main.74cc1a6a.chunk.js.map",
     "runtime-main.js": "/salesbuddy/static/js/runtime-main.575c42d8.js",
     "runtime-main.js.map": "/salesbuddy/static/js/runtime-main.575c42d8.js.map",
     "static/js/2.4497e82b.chunk.js": "/salesbuddy/static/js/2.4497e82b.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.575c42d8.js",
     "static/js/2.4497e82b.chunk.js",
     "static/css/main.b163286b.chunk.css",
-    "static/js/main.27df9abe.chunk.js"
+    "static/js/main.74cc1a6a.chunk.js"
   ]
 }
