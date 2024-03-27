@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,aACI,oBACJ,CAEA,WACI,YACJ","file":"main.b163286b.chunk.css","sourcesContent":[".white-space {\n    white-space: pre-line;\n}\n\n.chuck-img {\n    height: 200px;\n}"]}
