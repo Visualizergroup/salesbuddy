@@ -75,20 +75,6 @@
         "description":"Everything you create is used to create even better sales presentations to amaze your audience"
       }
     ],
-    "aiwork":[
-      {
-        "company":"InpaintAi",
-        "title":"",
-        "years":"",
-        "description":"Tailor to Taste: By quickly converting a 'base' image to match different styles or layouts based on customer feedback, you can offer a more personalized service, which can be a decisive factor in making a sale.​"
-      },
-      {
-        "company":"Generate look an feel in seconds",
-        "title":"",
-        "years":"",
-        "description":"Scale with AI: Traditional customization can be time-consuming. With AI, multiple design options can be generated in less time, allowing sales professionals to cater to a larger client base without sacrificing quality."
-      }
-    ],
     "skills":[
       {
         "name":"Time saved in total 69%",
@@ -118,12 +104,6 @@
         "title":"Dashboard",
         "category":"An overview of created presentations",
         "image":"02.png",
-        "url":""
-      },
-      {
-        "title":"Inpaint",
-        "category":"Ai inpainting",
-        "image":"",
         "url":""
       },
       {
