@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import Slide from "react-reveal";
 import { getJokes } from "./jokes";
 import { PacmanLoader } from "react-spinners";
+import Inpaint from "./Inpaint";
 
 function Resume ({data}) {
 
@@ -67,7 +68,23 @@ function Resume ({data}) {
         </div>
       );
     });
+    const aiwork = data.aiwork.map(function (work) {
+      return (
+        <div key={work.company}>
+          <h3>{work.company}</h3>
+          <p className="info">
+            {work.title}
+            {/**
+             * <span>&bull;</span> <em className="date">{work.years}</em>
+             */
 
+            }
+            
+          </p>
+          <p>{work.description}</p>
+        </div>
+      );
+    });
     const skills = data.skills.map((skills) => {
       const backgroundColor = getRandomColor();
       const className = "bar-expand " + skills.name.toLowerCase();
@@ -109,6 +126,23 @@ function Resume ({data}) {
             </div>
 
             <div className="nine columns main-col">{work}</div>
+          </div>
+        </Slide>
+        <Slide left duration={1300}>
+          <div className="row Inpaintai">
+            <div className="three columns header-col">
+              <h1>
+                <span>InpaintAi</span>
+              </h1>
+            </div>
+
+            <div className="nine columns main-col">{aiwork}
+            
+            </div>
+            <div className="nine columns main-col">
+              <iframe src="https://player.vimeo.com/video/917906110?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"  Allow="autoplay; fullscreen; picture-in-picture; clipboard-write">
+                </iframe>
+                </div>
           </div>
         </Slide>
 
